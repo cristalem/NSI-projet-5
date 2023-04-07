@@ -1,0 +1,180 @@
+{
+    "users": [
+        {
+            "name": "Raiden",
+            "fname": "Ei",
+            "bdate": "2000-06-24",
+            "adress": "Inazuma, Sud of Teyvat",
+            "tel": "0776551245",
+            "mail": "EiShogun@gmail.Com",
+            "password": "REi0624",
+            "username": "Ei.Raiden",
+            "perm_type": "member"
+        },
+        {
+            "name": "admin",
+            "fname": "admin",
+            "bdate": "",
+            "adress": "",
+            "tel": "",
+            "mail": "contact@admin.com",
+            "password": "admin",
+            "username": "admin.admin",
+            "perm_type": "admin"
+        },
+        {
+            "name": "nathan",
+            "fname": "owner",
+            "bdate": "",
+            "adress": "",
+            "tel": "",
+            "mail": "contact@admin.com",
+            "password": "onthn",
+            "username": "owner.nathan",
+            "perm_type": "admin"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        },
+        {
+            "name": "sama",
+            "fname": "danbluf",
+            "bdate": "2000-02-10",
+            "adress": "Chateau de Chamerolle",
+            "tel": "0611075588",
+            "mail": "dablufmagician@yahoo.com",
+            "password": "Dnbsama2000",
+            "username": "danbluf.sama",
+            "perm_type": "member"
+        }
+    ]
+}
