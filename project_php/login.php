@@ -20,13 +20,13 @@ foreach ($json_array["users"] as $user) {
             $_SESSION["user"] = $user["username"];
             $_SESSION["status"] = $check_perm;
             $_SESSION["stay_connected"] = True;
-            header('location: http://localhost/NSI projet 5/admin_space.php');
+            header('location: http://localhost/NSI projet 5(premiere)/admin_space.php');
             exit();
         } elseif ($check_perm == "member") {
             $_SESSION["user"] = $user["username"];
             $_SESSION["status"] = $check_perm;
             $_SESSION["stay_connected"] = True;
-            header('location: http://localhost/NSI projet 5/member_list.php');
+            header('location: http://localhost/NSI projet 5(premiere)/member_list.php');
             exit();
         }
         
@@ -36,5 +36,5 @@ foreach ($json_array["users"] as $user) {
     } 
 
 }
-header('location: http://localhost/NSI projet 5/login.php');
+header('location: http://localhost/NSI projet 5(premiere)/login.php');
 ?>

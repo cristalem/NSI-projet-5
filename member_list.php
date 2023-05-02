@@ -5,11 +5,11 @@ session_start();
 // ferme la session si le boutton deconnection est préssé
 if(isset($_POST['disconnect_button'])) {
         session_destroy();
-        header('location: http://localhost/NSI projet 5/login.php');
+        header('location: http://localhost/NSI projet 5(premiere)/login.php');
         
 }
 if(isset($_POST['Login_page'])) {
-    header('location: http://localhost/NSI projet 5/login.php');
+    header('location: http://localhost/NSI projet 5(premiere)/login.php');
     
 }
 ?>
@@ -18,7 +18,7 @@ if(isset($_POST['Login_page'])) {
 <!DOCTYPE html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="/NSI projet 5/project_css/default.css"/>
+        <link rel="stylesheet" href="/NSI projet 5(premiere)/project_css/default.css"/>
         <title>L'Aurora</title>
     </head>
     <body>

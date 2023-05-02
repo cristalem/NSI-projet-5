@@ -31,7 +31,7 @@ fwrite($file_json, json_encode($json_array, JSON_PRETTY_PRINT | JSON_UNESCAPED_U
 // ferme le fichier;
 fclose($file_json);
 
-header('location: http://localhost/NSI projet 5/login.php');
+header('location: http://localhost/NSI projet 5(premiere)/login.php');
 ?>
 
 
