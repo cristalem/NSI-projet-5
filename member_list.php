@@ -5,11 +5,11 @@ session_start();
 // ferme la session si le boutton deconnection est préssé
 if(isset($_POST['disconnect_button'])) {
         session_destroy();
-        header('location: http://localhost/NSI projet 5(premiere)/login.php');
+        header('location: http://localhost/NSI projet 5 (premiere)/login.php');
         
 }
 if(isset($_POST['Login_page'])) {
-    header('location: http://localhost/NSI projet 5(premiere)/login.php');
+    header('location: http://localhost/NSI projet 5 (premiere)/login.php');
     
 }
 ?>
@@ -18,7 +18,7 @@ if(isset($_POST['Login_page'])) {
 <!DOCTYPE html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="/NSI projet 5(premiere)/project_css/default.css"/>
+        <link rel="stylesheet" href="/NSI projet 5 (premiere)/project_css/default.css"/>
         <title>L'Aurora</title>
     </head>
     <body>
@@ -40,7 +40,7 @@ if(isset($_POST['Login_page'])) {
                 if ($_SESSION["status"] == "admin"){
                     echo "Account connected <strong>status : " . $_SESSION['status'] . "</strong>" . " / <strong>User : ". $_SESSION["user"] . "</strong><br/>";
                     // ouvre le fichier ou sont stocker nos données 
-                    $json_file = file_get_contents("./NSI projet 5/project_json/users.json");
+                    $json_file = file_get_contents("./NSI projet 5 (premiere)/project_json/users.json");
                     $json_array = json_decode($json_file, true);
                     $data = array();
                     // Affiche sous forme de liste les caractéristique de chaque abonnés

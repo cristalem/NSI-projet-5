@@ -3,15 +3,15 @@
     if (isset($_SESSION["user"])){
         if (isset($_SESSION["status"])){
             if ($_SESSION["status"] != "admin"){
-                header('location: http://localhost/NSI projet 5/Forbiden_access.php');
+                header('location: http://localhost/NSI projet 5 (premiere)/Forbiden_access.php');
             }
         } 
     }else {
-        header('location: http://localhost/NSI projet 5/login.php');
+        header('location: http://localhost/NSI projet 5 (premiere)/login.php');
     }
     if(isset($_POST['disconnect_button'])) {
         session_destroy();
-        header('location: http://localhost/NSI projet 5/login.php');
+        header('location: http://localhost/NSI projet 5 (premiere)/login.php');
         }
 ?>
 
