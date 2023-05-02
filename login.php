@@ -3,9 +3,9 @@
     if (isset($_SESSION["stay_connected"])){
         if(isset($_SESSION["status"])){
             if ($_SESSION["status"] == "admin"){
-                header('location: http://localhost/NSI projet 5/admin_space.php');
+                header('location: http://localhost/NSI projet 5(premiere)/admin_space.php');
             }elseif ($_SESSION["status"] == "member") {
-                header('location: http://localhost/NSI projet 5/member_list.php');
+                header('location: http://localhost/NSI projet 5(premiere)/member_list.php');
             }
         }
     }
@@ -15,8 +15,8 @@
 <!DOCTYPE html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="/NSI projet 5/project_css/default.css"/>
-        <link rel="stylesheet" href="/NSI projet 5/project_css/login.css"/>
+        <link rel="stylesheet" href="/NSI projet 5(premiere)/project_css/default.css"/>
+        <link rel="stylesheet" href="/NSI projet 5(premiere)/project_css/login.css"/>
         <title>L'Aurora</title>
     </head>
     <body>
@@ -28,7 +28,7 @@
                 <a href="topics.php">Topics</a>
               </div>
         </header>
-        <form action="/NSI projet 5/project_php/login.php" method="POST">
+        <form action="/NSI projet 5(premiere)/project_php/login.php" method="POST">
             <div id="logger">
             <form>
                 <table>
